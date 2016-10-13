@@ -1,0 +1,9 @@
+C:\Users\Janos A. Galantai\Desktop\emperor LAN Chess\ChatServer\ChatServer\bin\x86\Debug\ChatServer.exe.config
+C:\Users\Janos A. Galantai\Desktop\emperor LAN Chess\ChatServer\ChatServer\bin\x86\Debug\ChatServer.exe
+C:\Users\Janos A. Galantai\Desktop\emperor LAN Chess\ChatServer\ChatServer\bin\x86\Debug\ChatServer.pdb
+C:\Users\Janos A. Galantai\Desktop\emperor LAN Chess\ChatServer\ChatServer\obj\x86\Debug\ChatServer.theBoard.resources
+C:\Users\Janos A. Galantai\Desktop\emperor LAN Chess\ChatServer\ChatServer\obj\x86\Debug\ChatServer.Properties.Resources.resources
+C:\Users\Janos A. Galantai\Desktop\emperor LAN Chess\ChatServer\ChatServer\obj\x86\Debug\ChessServer.csproj.GenerateResource.Cache
+C:\Users\Janos A. Galantai\Desktop\emperor LAN Chess\ChatServer\ChatServer\obj\x86\Debug\ChatServer.exe
+C:\Users\Janos A. Galantai\Desktop\emperor LAN Chess\ChatServer\ChatServer\obj\x86\Debug\ChatServer.pdb
+C:\Users\Janos A. Galantai\Desktop\emperor LAN Chess\ChatServer\ChatServer\obj\x86\Debug\ChessServer.csprojResolveAssemblyReference.cache
